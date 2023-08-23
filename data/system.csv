@@ -1,0 +1,4 @@
+key,vlaue,desc
+1,2,테스트
+domain,http://sample.com,게임 서버 주소
+cdn,https://raw.githubusercontent.com/switch-games/static/main/,파일 서버 주소
